@@ -2,7 +2,7 @@
 //  Home.swift
 //  SwiftUI-StickyHeader
 //
-//  Created by macOS on 21/06/23.
+//  Created by Ashish Augustine on 21/06/23.
 //
 
 import SwiftUI

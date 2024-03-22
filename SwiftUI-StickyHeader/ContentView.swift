@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  SwiftUI-StickyHeader
 //
-//  Created by macOS on 21/06/23.
+//  Created by Ashish Augustine 
 //
 
 import SwiftUI
